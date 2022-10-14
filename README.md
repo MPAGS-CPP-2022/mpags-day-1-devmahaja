@@ -3,3 +3,4 @@ A simple command line tool for encrypting/decrypting text using classical cipher
 I'm learnding ! - Ralph Wiggum
 
 Documentation:
+Hi
